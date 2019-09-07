@@ -13,7 +13,7 @@ jobs:
     - name: "npm run build"
       run: npm run build
 
-    - name: "npm run test"
+    - name: "npm run test1"
       run: npm run test
 
     - name: "check for uncommitted changes"
